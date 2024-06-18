@@ -21,7 +21,6 @@ B.A., Computer Sciences (Graduating Decemember 2025)
 | [CS 189](https://github.com/Amokhalad/CS189-cheatsheets) | `Machine Learning` | Spring 2024 |
 | EECS 127 | `Optimization Models in Engineering` | Spring 2024 |
 
-## Additional Coursework
 ### Udemy Courses
 
 | Udemy Courses |
