@@ -10,7 +10,7 @@ B.A., Computer Sciences (Graduating Decemember 2025)
 | Course | Title | Semester |
 |--------|-------|----------|
 | [CS 61A](https://github.com/Amokhalad/CS61A) | `Structure & Interpretation of Computer Programs (Python, Scheme, SQL)` | Fall 2022 |
-| Data 8 | `The Foundations of Data Science (Python)` | Fall 2022 |
+| [Data 8](https://github.com/Amokhalad/Data8) | `The Foundations of Data Science (Python)` | Fall 2022 |
 | CS 61B | `Data Structures (Java, Git)` | Spring 2023 |
 | CS 70 | `Discrete Mathematics and Probability Theory` | Spring 2023 |
 | Data 100 | `Principles and Techniques of Data Science` | Spring 2023 |
