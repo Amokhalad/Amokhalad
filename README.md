@@ -3,7 +3,7 @@
 # 🎓 Education 
 
 ## University of California, Berkeley
-B.A., Computer Sciences (Graduating Decemember 2025)
+B.A., Computer Sciences (Graduating Decemember 2024)
 
 ### Coursework
 
