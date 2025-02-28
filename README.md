@@ -5,7 +5,7 @@
 ## University of California, Berkeley
 B.A., Computer Sciences (Graduating Decemember 2024)
 
-### Coursework
+### Relevant Coursework
 
 | Course | Title | Semester |
 |--------|-------|----------|
@@ -18,4 +18,8 @@ B.A., Computer Sciences (Graduating Decemember 2024)
 | [CS 61C](https://github.com/Amokhalad/CS61C) | `Computer Architecture` | Summer 2023 |
 | [CS 170](https://github.com/Amokhalad/CS170) | `Efficient Algorithms and Intractable Problems` | Fall 2023 |
 | [CS 161](https://github.com/Amokhalad/CS161) | `Computer Security` | Fall 2023 |
+| CS 198 | Competitive Programming | Fall 2023 |
 | [CS 189](https://github.com/Amokhalad/CS189-cheatsheets) | `Machine Learning` | Spring 2024 |
+| CS 180 | Computer Vision and Computational Photography | Fall 2024 |
+| CS 194 | `Large Language Model Agents` | Fall 2024 |
+| CS 162 | Operating Systems and System Programming | Fall 2024 |
