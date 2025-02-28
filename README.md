@@ -22,4 +22,4 @@ B.A., Computer Sciences (Graduating Decemember 2024)
 | [CS 189](https://github.com/Amokhalad/CS189-cheatsheets) | `Machine Learning` | Spring 2024 |
 | CS 180 | Computer Vision and Computational Photography | Fall 2024 |
 | CS 194 | `Large Language Model Agents` | Fall 2024 |
-| CS 162 | Operating Systems and System Programming | Fall 2024 |
+| [CS 162](https://github.com/Amokhalad/CS162) | Operating Systems and System Programming | Fall 2024 |
