@@ -1,4 +1,4 @@
-# Hello I'm Mokhalad! 👋🏽 Aspiring Software Engineer 💻
+# Hello I'm Mokhalad! 👋🏽
 
 # 🎓 Education 
 
@@ -19,12 +19,3 @@ B.A., Computer Sciences (Graduating Decemember 2024)
 | [CS 170](https://github.com/Amokhalad/CS170) | `Efficient Algorithms and Intractable Problems` | Fall 2023 |
 | [CS 161](https://github.com/Amokhalad/CS161) | `Computer Security` | Fall 2023 |
 | [CS 189](https://github.com/Amokhalad/CS189-cheatsheets) | `Machine Learning` | Spring 2024 |
-| EECS 127 | `Optimization Models in Engineering` | Spring 2024 |
-
-### Udemy Courses
-
-| Udemy Courses |
-|---------------|
-| `Complete Python Bootcamp` |
-| `Python for Machine Learning & Data Science Bootcamp` |
-| `The Complete Web Development Bootcamp w/ Dr. Angela Yu` |
